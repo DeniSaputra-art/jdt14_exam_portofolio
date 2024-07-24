@@ -6,8 +6,6 @@ import {
   FaTwitter,
 } from "react-icons/fa";
 
-import React from "react";
-
 const Footer = () => {
   const items = [
     { name: "Facebook", icon: FaFacebook, link: "https://www.facebook.com/" },
